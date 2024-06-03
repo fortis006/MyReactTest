@@ -1,6 +1,7 @@
 # MyReactTest
 
-##Files tree
+## Files tree
+
 |-- FRONTEND
     |-- .eslintrc
     |-- .gitignore
@@ -10,7 +11,7 @@
     |-- tsconfig.node.json
     |-- vite.config.ts
     |-- package.json
-    |-- package.lock.json
+    |-- package.lock.json	
     |-- src
         |-- App.css
         |-- App.tsx
